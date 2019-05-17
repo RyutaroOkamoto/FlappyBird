@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6A4A4B3D228EAB9600E0F503 /* Cursor1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6A4A4B3C228EAB9600E0F503 /* Cursor1.mp3 */; };
 		6ADBFBAB2285A53200FEA02A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ADBFBAA2285A53200FEA02A /* AppDelegate.swift */; };
 		6ADBFBAD2285A53200FEA02A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ADBFBAC2285A53200FEA02A /* ViewController.swift */; };
 		6ADBFBB02285A53200FEA02A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6ADBFBAE2285A53200FEA02A /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6A4A4B3C228EAB9600E0F503 /* Cursor1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Cursor1.mp3; sourceTree = "<group>"; };
 		6ADBFBA72285A53200FEA02A /* FlappyBird.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlappyBird.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6ADBFBAA2285A53200FEA02A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6ADBFBAC2285A53200FEA02A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				6ADBFBB32285A53400FEA02A /* LaunchScreen.storyboard */,
 				6ADBFBB62285A53400FEA02A /* Info.plist */,
 				6ADBFBC022866B4200FEA02A /* GameScene.swift */,
+				6A4A4B3C228EAB9600E0F503 /* Cursor1.mp3 */,
 			);
 			path = FlappyBird;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6A4A4B3D228EAB9600E0F503 /* Cursor1.mp3 in Resources */,
 				6ADBFBB52285A53400FEA02A /* LaunchScreen.storyboard in Resources */,
 				6ADBFBB22285A53400FEA02A /* Assets.xcassets in Resources */,
 				6ADBFBB02285A53200FEA02A /* Main.storyboard in Resources */,
